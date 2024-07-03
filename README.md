@@ -1,0 +1,2 @@
+# RainGame
+ Simple pygame 
